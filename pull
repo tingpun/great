@@ -1,0 +1,18 @@
+@@ -3,6 +3,8 @@
+Please take a moment to review this document in order to make the contribution
+process easy and effective for everyone involved.
+
+*Please submit one PR per question*
+
+Following these guidelines helps to communicate that you respect the time of
+the developers managing and developing this open source project. In return,
+they should reciprocate that respect in addressing your issue or assessing
+@@ -39,8 +41,8 @@ Adhering to the following process is the best way to get your work included in t
+2. If you cloned a while ago, get the latest changes from upstream:
+
+   ```bash
+   git checkout master
+   git pull upstream master
+   git checkout main
+   git pull upstream main
+   ```
