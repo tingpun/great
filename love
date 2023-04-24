@@ -1,0 +1,16 @@
+@@ -17,7 +17,7 @@ In this lesson, we'll cover:
+- Basic elements of a program
+- Useful software and tooling for the professional developer
+
+> You can take this lesson on [Microsoft Learn](https://docs.microsoft.com/learn/modules/web-development-101/introduction-programming?WT.mc_id=academic-77807-sagibbon)!
+> You can take this lesson on [Microsoft Learn](https://docs.microsoft.com/learn/modules/web-development-101/introduction-programming/?WT.mc_id=academic-77807-sagibbon)!
+## What is Programming?
+
+@@ -132,7 +132,7 @@ Many browsers come with *developer tools* (DevTools) that contain a set of helpf
+
+#### Popular Browsers and DevTools
+
+- [Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium?WT.mc_id=academic-77807-sagibbon)
+- [Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/?WT.mc_id=academic-77807-sagibbon)
+- [Chrome](https://developers.google.com/web/tools/chrome-devtools/)
+- [Firefox](https://developer.mozilla.org/docs/Tools)
